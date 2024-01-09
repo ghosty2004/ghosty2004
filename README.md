@@ -4,8 +4,7 @@ Hey there! 👋 I'm Ghosty2004, a passionate developer who loves to explore new 
 [![Discord Presence](https://lanyard.cnrad.dev/api/334979056095199233)](https://discord.com/users/334979056095199233)
 
 - 🛠️ I'm currently working on:
-  - [Empire Super Stunt](https://github.com/Empire-Super-Stunt) (Romanian GTA:V server powered by rage.mp)
-  - [Trwix Roleplay](https://github.com/trwix) (Romanian GTA:V server powered by altv.mp)
+  - [vespucci.mp](https://vespucci.mp/) (Romanian GTA:V server powered by rage.mp)
 - 🌱 I'm currently learning:
   - Rust <img src="https://skillicons.dev/icons?i=rust" width="15" height="15" align="center"/>
 
