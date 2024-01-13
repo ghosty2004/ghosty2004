@@ -7,6 +7,7 @@ Hey there! 👋 I'm Ghosty2004, a passionate developer who loves to explore new 
   - [vespucci.mp](https://vespucci.mp/) (Romanian GTA:V server powered by rage.mp)
 - 🌱 I'm currently learning:
   - Rust <img src="https://skillicons.dev/icons?i=rust" width="15" height="15" align="center"/>
+  - C# <img src="https://skillicons.dev/icons?i=cs" width="15" height="15" align="center"/>
 
 # Tools & Technologies
 A list of what tools and technologies I use
